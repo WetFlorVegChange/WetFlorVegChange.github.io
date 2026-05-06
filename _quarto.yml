@@ -50,9 +50,9 @@ website:
           - text: "Related articles"
             href: Articles/related_articles.qmd
           
-          
-          - section: "Links"
-        href: Links/links.qmd
+        
+        
+       
         
 
 format:
