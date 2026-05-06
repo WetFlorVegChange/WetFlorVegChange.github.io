@@ -1,5 +1,6 @@
 ---
 title: "data_policy"
 format: html
+editor: visual
 ---
 

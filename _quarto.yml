@@ -41,7 +41,8 @@ website:
             href: More/data_policy.qmd
             
             
-             - section: "Articles"
+            
+      - section: "Articles"
         href: Articles/articles.qmd
         contents:
           - text: "Project articles"

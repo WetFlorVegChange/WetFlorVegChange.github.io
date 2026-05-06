@@ -1,5 +1,21 @@
 ---
 title: "instructions"
 format: html
+editor: visual
 ---
 
+**How to contribute?**
+
+First, contact the project leader, **Flavia Landucci** ([flavia.landucci\@gmail.com](mailto:flavia.landucci@gmail.com)), and express your interest in participating in this project.
+
+You can contribute by sharing with us
+
+-            **Already existing data.** Time series already digitized or available in literature or reports, but not stored in any existing database.
+
+-            **Resurveying wetland sites**. If you have good initial datasets that could be repeated within the next two years, you can conduct the resurveys yourself.
+
+It is possible to contribute your data in two ways:
+
+-            **Contribute them to the ReSurvey Europe database** (<https://euroveg.org/resurvey/>) before October 2027 (the sooner the better). In this case, please follow all instructions on the ReSurvey webpage and notify Flavia Landucci ([flavia.landucci\@gmail.com](mailto:flavia.landucci@gmail.com)) that you have contributed your data through ReSurvey Europe.
+
+-            **Share them directly with our group**. If, for some reason, you want to share your data only with our project and not contribute your data to ReSurvey Europe, or you do not have time to properly digitize them in a TURBOVEG database, you can contribute them directly to our data managers: Tomáš Peterka: ([peterkatomasek\@seznam.cz](peterkatomasek@seznam.cz)) for mires and bogs, and Zdenka Preislerová ([zpreislerova\@gmail.com](mailto:zpreislerova@gmail.com)) for all other wetland types.
