@@ -6,8 +6,6 @@ editor: visual
 
 ![](images/clipboard-3117710992.png)
 
-![](images/clipboard-1804613218.png)
-
 ## **Floristic and Vegetation Changes in European Wetlands**
 
 Wetlands are among the most threatened ecosystems in Europe and in the World. Despite their ecological importance, our understanding of long‑term floristic and vegetation changes at the continental scale remains fragmented. Most existing studies focus on local case studies, leaving large‑scale patterns and drivers poorly understood.

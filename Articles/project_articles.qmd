@@ -1,5 +1,5 @@
 ---
-title: "project_articles"
+title: "Project articles"
 format: html
 ---
 
