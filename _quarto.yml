@@ -1,0 +1,61 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "WetFlorVegChange"
+
+  page-footer:
+    right: "This page is built with [Quarto](https://quarto.org/)."
+
+  sidebar:
+    pinned: true
+    align: center
+    style: "docked"
+    search: true
+    logo: logo_screenshot.png
+    logo-height: 50px
+    logo-alt: "Logo"
+    collapse-level: 2
+    contents:
+
+      - section: "About the project"
+        href: index.qmd
+      
+
+      - section: "People and cooperations"
+        href: People/people_cooperations.qmd
+        contents:
+          - text: "Core team"
+            href: People/core_team.qmd
+          - text: "Data contributors"
+            href: People/data_contributors.qmd
+          
+
+      - section: "More about the project"
+        href: More/more_about.qmd
+        contents:
+          - text: "How to contribute"
+            href: More/instructions.qmd
+          - text: "Data policy"
+            href: More/data_policy.qmd
+            
+            
+             - section: "Articles"
+        href: Articles/articles.qmd
+        contents:
+          - text: "Project articles"
+            href: Articles/project_articles.qmd
+          - text: "Related articles"
+            href: Articles/related_articles.qmd
+          
+          
+          - section: "Links"
+        href: Links/links.qmd
+        
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
