@@ -41,7 +41,6 @@ website:
             href: More/data_policy.qmd
             
             
-            
       - section: "Articles"
         href: Articles/articles.qmd
         contents:
@@ -51,8 +50,9 @@ website:
             href: Articles/related_articles.qmd
             
     
-       - section: "Links" 
-        href: Links.qmd          
+      - section: "Links"
+        href: Links.qmd
+         
 
 
         
