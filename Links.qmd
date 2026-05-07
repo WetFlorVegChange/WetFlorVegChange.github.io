@@ -2,3 +2,19 @@
 title: "Links"
 editor: visual
 ---
+
+## **Related Projects and Initiatives**
+
+-   [**ReSurveyEurope**](https://euroveg.org/resurvey/) - the largest European database of resurvey plots, integrated with the European Vegetation Archive. It currently includes more than 120,000 plots with repeated surveys across all European Habitats.
+
+-   [**forestREplot**](https://forestreplot.ugent.be/)– a database of forest herb‑layer resurvey plots. forestREplot and ReSurveyEurope exchange European datasets when data owners provide consent.
+
+-   [**GLORIA**](https://gloria.ac.at/home) – the Global Observation Research Initiative in Alpine Environments. GLORIA contributes European datasets to ReSurveyEurope.
+
+-   [**LOTVS**](https://lotvs.csic.es/) – the Long‑Term Vegetation Sampling database. LOTVS and ReSurveyEurope share European data when data owners.
+
+-   [**sPlot**](https://www.idiv.de/en/splot.html) – the Global Vegetation Database. Starting with version 4.0, sPlot is collecting vegetation time‑series outside Europe and is seeking consent from ReSurveyEurope contributors to combine European datasets with global data for analyses following sPlot rules.
+
+-   [**VegCHange**](https://www.zhaw.ch/en/lsfm/institutes-centres/iunr/geoecology/vegetation-ecology/translate-to-en-snf-projekt-vegchange) – a toolbox for investigating anthropogenic changes in Swiss flora and vegetation.
+
+-   [**EVAmap**](https://evamap.eu/?box=%5B-34.469%2C32.947%2C64.469%2C64.109%5D&offset=0&limit=11&clipFeature=null&habitat1=%5B%5D&habitat3=%5B%5D&country=%5B%5D&bioregion=%5B%5D&altitude=%5B0%2C5000%2Ctrue%5D&year=%5B1910%2C2025%2Ctrue%5D&range=%5B0%2C115%5D&area=%5B0%2C15000%2Ctrue%5D&uncertainty=%5B0%2C1000000%2Ctrue%5D&project=%5B%5D&dataset=%5B%5D&resurvey=null&manipulated=null&sortAttribute=&sortDirection=&detailId=)– is a mapping application for all plots included in the European Vegetation Archive and ResurveyEurope. It allows selecting plots based on geographical location, along with other criteria. It also assesses which plots have been resurveyed to assess vegetation changes over time.
