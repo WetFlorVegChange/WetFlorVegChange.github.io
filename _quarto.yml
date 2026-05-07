@@ -49,10 +49,12 @@ website:
             href: Articles/project_articles.qmd
           - text: "Related articles"
             href: Articles/related_articles.qmd
-          
-        
-        
-       
+            
+    
+            
+      - section: "Links"          
+      href: Links.qmd
+
         
 
 format:
