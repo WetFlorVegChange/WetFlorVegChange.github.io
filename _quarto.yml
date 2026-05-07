@@ -21,7 +21,6 @@ website:
 
       - section: "About the project"
         href: index.qmd
-      
 
       - section: "People and cooperations"
         href: People/people_cooperations.qmd
@@ -30,7 +29,6 @@ website:
             href: People/core_team.qmd
           - text: "Data contributors"
             href: People/data_contributors.qmd
-          
 
       - section: "More about the project"
         href: More/more_about.qmd
@@ -39,8 +37,7 @@ website:
             href: More/instructions.qmd
           - text: "Data policy"
             href: More/data_policy.qmd
-            
-            
+
       - section: "Articles"
         href: Articles/articles.qmd
         contents:
@@ -48,13 +45,11 @@ website:
             href: Articles/project_articles.qmd
           - text: "Related articles"
             href: Articles/related_articles.qmd
-            
-    
+
       - section: "Links"
         href: Links.qmd
+
          
-
-
         
 
 format:

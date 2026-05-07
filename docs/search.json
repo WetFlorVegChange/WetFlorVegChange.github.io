@@ -62,5 +62,25 @@
       "People and cooperations",
       "Data contributors"
     ]
+  },
+  {
+    "objectID": "Links.html",
+    "href": "Links.html",
+    "title": "Links",
+    "section": "",
+    "text": "ReSurveyEurope - the largest European database of resurvey plots, integrated with the European Vegetation Archive. It currently includes more than 120,000 plots with repeated surveys across all European Habitats.\nforestREplot– a database of forest herb‑layer resurvey plots. forestREplot and ReSurveyEurope exchange European datasets when data owners provide consent.\nGLORIA – the Global Observation Research Initiative in Alpine Environments. GLORIA contributes European datasets to ReSurveyEurope.\nLOTVS – the Long‑Term Vegetation Sampling database. LOTVS and ReSurveyEurope share European data when data owners.\nsPlot – the Global Vegetation Database. Starting with version 4.0, sPlot is collecting vegetation time‑series outside Europe and is seeking consent from ReSurveyEurope contributors to combine European datasets with global data for analyses following sPlot rules.\nVegCHange – a toolbox for investigating anthropogenic changes in Swiss flora and vegetation.\nEVAmap– is a mapping application for all plots included in the European Vegetation Archive and ResurveyEurope. It allows selecting plots based on geographical location, along with other criteria. It also assesses which plots have been resurveyed to assess vegetation changes over time.",
+    "crumbs": [
+      "Links"
+    ]
+  },
+  {
+    "objectID": "Links.html#related-projects-and-initiatives",
+    "href": "Links.html#related-projects-and-initiatives",
+    "title": "Links",
+    "section": "",
+    "text": "ReSurveyEurope - the largest European database of resurvey plots, integrated with the European Vegetation Archive. It currently includes more than 120,000 plots with repeated surveys across all European Habitats.\nforestREplot– a database of forest herb‑layer resurvey plots. forestREplot and ReSurveyEurope exchange European datasets when data owners provide consent.\nGLORIA – the Global Observation Research Initiative in Alpine Environments. GLORIA contributes European datasets to ReSurveyEurope.\nLOTVS – the Long‑Term Vegetation Sampling database. LOTVS and ReSurveyEurope share European data when data owners.\nsPlot – the Global Vegetation Database. Starting with version 4.0, sPlot is collecting vegetation time‑series outside Europe and is seeking consent from ReSurveyEurope contributors to combine European datasets with global data for analyses following sPlot rules.\nVegCHange – a toolbox for investigating anthropogenic changes in Swiss flora and vegetation.\nEVAmap– is a mapping application for all plots included in the European Vegetation Archive and ResurveyEurope. It allows selecting plots based on geographical location, along with other criteria. It also assesses which plots have been resurveyed to assess vegetation changes over time.",
+    "crumbs": [
+      "Links"
+    ]
   }
 ]
