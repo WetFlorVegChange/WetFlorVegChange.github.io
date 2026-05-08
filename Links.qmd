@@ -1,5 +1,6 @@
 ---
 title: "Links"
+format: html
 editor: visual
 ---
 

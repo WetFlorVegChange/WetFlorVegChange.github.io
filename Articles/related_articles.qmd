@@ -1,5 +1,9 @@
 ---
 title: "related_articles"
 format: html
+editor: visual
 ---
 
+### **Interesting publications about the topic**
+
+Kapfer, J., Hédl, R., Jurasinski, G., Kopecký, M., Schei, F. H., & Grytnes, J. A. (2017). Resurveying historical vegetation data–opportunities and challenges. *Applied Vegetation Science*, *20*(2), 164-171. [Doi:10.1111/avsc.12269](https://doi.org/10.1111/avsc.12269)

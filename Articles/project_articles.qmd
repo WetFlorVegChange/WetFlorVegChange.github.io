@@ -1,5 +1,7 @@
 ---
 title: "Project articles"
 format: html
+editor: visual
 ---
 
+We do not have publications related to the project yet

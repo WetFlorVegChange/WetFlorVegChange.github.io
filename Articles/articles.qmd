@@ -1,5 +1,13 @@
 ---
 title: "Articles"
 format: html
+editor: visual
 ---
 
+## **Project-related articles and other interesting publications**
+
+Our project is just beginning; therefore, we do not have any publications related to it yet. But we offer you a wide overview of existing literature about resurveys and resurveys in wetlands.
+
+[project articles](https://wetflorvegchange.github.io/Articles/project_articles.html)
+
+[related articles](https://wetflorvegchange.github.io/Articles/related_articles.html)
