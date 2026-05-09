@@ -1,18 +1,17 @@
 ---
-title: "WetFlorVegChange"
 format: html
 editor: visual
 ---
 
 ![](images/clipboard-3117710992.png)
 
-## **Floristic and Vegetation Changes in European Wetlands**
+# **Floristic and Vegetation Changes in European Wetlands**
 
 Wetlands are among the most threatened ecosystems in Europe and in the World. Despite their ecological importance, our understanding of long‑term floristic and vegetation changes at the continental scale remains fragmented. Most existing studies focus on local case studies, leaving large‑scale patterns and drivers poorly understood.
 
 **WetFlorVegChange** addresses this gap by building the first coordinated European network dedicated to wetland resurveys. The project brings together experts, historical data sets, and new field campaigns to assess how wetland vegetation has changed over the last century.
 
-**Our Goals**
+## **Our Goals**
 
 -   Document long‑term changes in wetland flora and vegetation across Europe
 
@@ -24,7 +23,7 @@ Wetlands are among the most threatened ecosystems in Europe and in the World. De
 
 -   Provide evidence‑based guidelines for wetland conservation and management
 
-**Our Approach**
+## **Our Approach**
 
 We combine multiple data sources and analytical tools to build the first continental‑scale picture of wetland vegetation change:
 
@@ -42,6 +41,6 @@ We combine multiple data sources and analytical tools to build the first contine
 
 The project will establish **ReSurveyWetlands**, a dedicated database for wetland vegetation resurveys, developed in close cooperation with the [**ReSurveyEurope**](https://euroveg.org/resurvey/) initiative.
 
-**Funding and Timeline**
+## **Funding and Timeline**
 
 WetFlorVegChange is funded by the [Czech Science Foundation](https://gacr.cz/en/) (GAČR standard project) under project number 26‑22183S and runs from 2026 to 2028.
