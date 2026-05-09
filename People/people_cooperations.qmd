@@ -1,5 +1,5 @@
 ---
-title: "people_cooperations"
+title: "People and cooperations"
 format: html
+editor: visual
 ---
-

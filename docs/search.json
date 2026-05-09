@@ -2,9 +2,9 @@
   {
     "objectID": "People/core_team.html",
     "href": "People/core_team.html",
-    "title": "core_team",
+    "title": "Core team",
     "section": "",
-    "text": "Core Team\nThe core team of this project is mainly composed of scientists from Masaryk University (Brno, Czech Republic).\nFlavia Landucci (Project leader) \nSenior researcher at the Vegetation Science Group, Masaryk University (Czech Republic). Expert in aquatic and marsh habitats and vegetation in Europe.\nRole in the project:\nIrena Axmanová\nAssistant Professor at the Vegetation Science Group, Masaryk University (Czech Republic). Vegetation ecologist specialized in alien species, and functional and phylogenetic diversity of plant communities.\nRole in the project:\nMichal Hájek\nProfessor at Masaryk University, Czech Republic\nExpert in fen ecology and European wetland diversity\nRole in the project:\nPetra Hájková\nResearcher at Masaryk University, Czech Republic\nExpert in wetland vegetation and bryophytes.\nRole in the project:\nSvitlana Iemelianova\nResearcher at Masaryk University, Czech Republic\nExpert in wetland vegetation and habitats, exotic species.\nRole in the project:\nJulia Kellermannová\nPhD student at Masaryk University, Czech Republic\nWorking with functional traits and vegetation changes.\nRole in the project:\nBarbora Klímová\nPhD student at Masaryk University, Czech Republic\nRole in the project: GIS, spatial analysis, modeling, visualization \nTomáš Peterka\nResearcher at Masaryk University, Czech Republic\nExpert in wetland vegetation and vegetation databases\nRole in the project:\nZdenka Preislerová\nResearcher at Masaryk University, Czech Republic\nExpert in vegetation databases and wetland classification\nRole in the project: Fieldwork, database administration, data analysis, writing \nKateřina Šumberová\nResearcher at the Czech Academy of Sciences\nSpecialist in aquatic and marsh vegetation\nRole in the project: Fieldwork, data analysis, writing \nLubomír Tichý\nProfessor at Masaryk University, Czech Republic\nDeveloper of JUICE and specialist in vegetation classification\nRole in the project: Data analysis, writing, and communication with conservation agencies \nFriedemann von Lampe\nLecturer at the University of Göttingen, Germany\nExpert in long‑term macrophyte vegetation change\nRole in the project: Data collection, methodological consultation, analysis, and writing",
+    "text": "The core team of this project is mainly composed of scientists from Masaryk University (Brno, Czech Republic).\nFlavia Landucci (Project leader) \nSenior researcher at the Vegetation Science Group, Masaryk University (Czech Republic). Expert in aquatic and marsh habitats and vegetation in Europe.\nRole in the project:\nIrena Axmanová\nAssistant Professor at the Vegetation Science Group, Masaryk University (Czech Republic). Vegetation ecologist specialized in alien species, and functional and phylogenetic diversity of plant communities.\nRole in the project:\nMichal Hájek\nProfessor at Masaryk University, Czech Republic\nExpert in fen ecology and European wetland diversity\nRole in the project:\nPetra Hájková\nResearcher at Masaryk University, Czech Republic\nExpert in wetland vegetation and bryophytes.\nRole in the project:\nSvitlana Iemelianova\nResearcher at Masaryk University, Czech Republic\nExpert in wetland vegetation and habitats, exotic species.\nRole in the project:\nJulia Kellermannová\nPhD student at Masaryk University, Czech Republic\nWorking with functional traits and vegetation changes.\nRole in the project:\nBarbora Klímová\nPhD student at Masaryk University, Czech Republic\nRole in the project: GIS, spatial analysis, modeling, visualization \nTomáš Peterka\nResearcher at Masaryk University, Czech Republic\nExpert in wetland vegetation and vegetation databases\nRole in the project:\nZdenka Preislerová\nResearcher at Masaryk University, Czech Republic\nExpert in vegetation databases and wetland classification\nRole in the project: Fieldwork, database administration, data analysis, writing \nKateřina Šumberová\nResearcher at the Czech Academy of Sciences\nSpecialist in aquatic and marsh vegetation\nRole in the project: Fieldwork, data analysis, writing \nLubomír Tichý\nProfessor at Masaryk University, Czech Republic\nDeveloper of JUICE and specialist in vegetation classification\nRole in the project: Data analysis, writing, and communication with conservation agencies \nFriedemann von Lampe\nLecturer at the University of Göttingen, Germany\nExpert in long‑term macrophyte vegetation change\nRole in the project: Data collection, methodological consultation, analysis, and writing",
     "crumbs": [
       "People and cooperations",
       "Core team"
@@ -35,7 +35,7 @@
   {
     "objectID": "Links.html",
     "href": "Links.html",
-    "title": "Links",
+    "title": "Related Projects and Initiatives",
     "section": "",
     "text": "ReSurveyEurope - the largest European database of resurvey plots, integrated with the European Vegetation Archive. It currently includes more than 120,000 plots with repeated surveys across all European Habitats.\nforestREplot– a database of forest herb‑layer resurvey plots. forestREplot and ReSurveyEurope exchange European datasets when data owners provide consent.\nGLORIA – the Global Observation Research Initiative in Alpine Environments. GLORIA contributes European datasets to ReSurveyEurope.\nLOTVS – the Long‑Term Vegetation Sampling database. LOTVS and ReSurveyEurope share European data when data owners.\nsPlot – the Global Vegetation Database. Starting with version 4.0, sPlot is collecting vegetation time‑series outside Europe and is seeking consent from ReSurveyEurope contributors to combine European datasets with global data for analyses following sPlot rules.\nVegCHange – a toolbox for investigating anthropogenic changes in Swiss flora and vegetation.\nEVAmap– is a mapping application for all plots included in the European Vegetation Archive and ResurveyEurope. It allows selecting plots based on geographical location, along with other criteria. It also assesses which plots have been resurveyed to assess vegetation changes over time.",
     "crumbs": [
@@ -55,9 +55,9 @@
   {
     "objectID": "Articles/related_articles.html",
     "href": "Articles/related_articles.html",
-    "title": "related_articles",
+    "title": "Interesting publications about the topic",
     "section": "",
-    "text": "Interesting publications about the topic\nKapfer, J., Hédl, R., Jurasinski, G., Kopecký, M., Schei, F. H., & Grytnes, J. A. (2017). Resurveying historical vegetation data–opportunities and challenges. Applied Vegetation Science, 20(2), 164-171. Doi:10.1111/avsc.12269",
+    "text": "Kapfer, J., Hédl, R., Jurasinski, G., Kopecký, M., Schei, F. H., & Grytnes, J. A. (2017). Resurveying historical vegetation data–opportunities and challenges. Applied Vegetation Science, 20(2), 164-171. Doi:10.1111/avsc.12269",
     "crumbs": [
       "Articles",
       "Related articles"
@@ -66,7 +66,7 @@
   {
     "objectID": "Articles/articles.html",
     "href": "Articles/articles.html",
-    "title": "Articles",
+    "title": "Project-related articles and other interesting publications",
     "section": "",
     "text": "Our project is just beginning; therefore, we do not have any publications related to it yet. But we offer you a wide overview of existing literature about resurveys and resurveys in wetlands.\nproject articles\nrelated articles",
     "crumbs": [
@@ -117,9 +117,9 @@
   {
     "objectID": "People/data_contributors.html",
     "href": "People/data_contributors.html",
-    "title": "data_contributors",
+    "title": "Data contributors",
     "section": "",
-    "text": "Data contributors\nMore than sixty scientists and specialists involved in nature conservation from 17 European countries have already decided to contribute to WetFlorVegChange.  If you are interested in joining our project, please contact us and visit the “How to contribute?” page.\nmap",
+    "text": "More than sixty scientists and specialists involved in nature conservation from 17 European countries have already decided to contribute to WetFlorVegChange.  If you are interested in joining our project, please contact us and visit the “How to contribute?” page.\nmap",
     "crumbs": [
       "People and cooperations",
       "Data contributors"

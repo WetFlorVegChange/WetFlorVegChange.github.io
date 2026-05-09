@@ -1,10 +1,8 @@
 ---
-title: "core_team"
+title: "Core team"
 format: html
 editor: visual
 ---
-
-**Core Team**
 
 The core team of this project is mainly composed of scientists from Masaryk University (Brno, Czech Republic).
 

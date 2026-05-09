@@ -1,10 +1,8 @@
 ---
-title: "data_contributors"
+title: "Data contributors"
 format: html
 editor: visual
 ---
-
-**Data contributors**
 
 More than sixty scientists and specialists involved in nature conservation from 17 European countries have already decided to contribute to WetFlorVegChange.  If you are interested in joining our project, please contact us and visit the “How to contribute?” page.
 

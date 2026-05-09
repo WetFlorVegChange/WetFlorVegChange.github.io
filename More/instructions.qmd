@@ -1,10 +1,8 @@
 ---
-title: "Instructions"
+title: "How to contribute?"
 format: html
 editor: visual
 ---
-
-## **How to contribute?**
 
 First, contact the project leader, **Flavia Landucci** ([flavia.landucci\@gmail.com](mailto:flavia.landucci@gmail.com)), and express your interest in participating in this project.
 
