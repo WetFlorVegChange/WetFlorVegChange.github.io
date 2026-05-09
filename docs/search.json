@@ -53,6 +53,48 @@
     ]
   },
   {
+    "objectID": "Articles/related_articles.html",
+    "href": "Articles/related_articles.html",
+    "title": "related_articles",
+    "section": "",
+    "text": "Interesting publications about the topic\nKapfer, J., Hédl, R., Jurasinski, G., Kopecký, M., Schei, F. H., & Grytnes, J. A. (2017). Resurveying historical vegetation data–opportunities and challenges. Applied Vegetation Science, 20(2), 164-171. Doi:10.1111/avsc.12269",
+    "crumbs": [
+      "Articles",
+      "Related articles"
+    ]
+  },
+  {
+    "objectID": "Articles/articles.html",
+    "href": "Articles/articles.html",
+    "title": "Articles",
+    "section": "",
+    "text": "Our project is just beginning; therefore, we do not have any publications related to it yet. But we offer you a wide overview of existing literature about resurveys and resurveys in wetlands.\nproject articles\nrelated articles",
+    "crumbs": [
+      "Articles"
+    ]
+  },
+  {
+    "objectID": "Articles/articles.html#project-related-articles-and-other-interesting-publications",
+    "href": "Articles/articles.html#project-related-articles-and-other-interesting-publications",
+    "title": "Articles",
+    "section": "",
+    "text": "Our project is just beginning; therefore, we do not have any publications related to it yet. But we offer you a wide overview of existing literature about resurveys and resurveys in wetlands.\nproject articles\nrelated articles",
+    "crumbs": [
+      "Articles"
+    ]
+  },
+  {
+    "objectID": "Articles/project_articles.html",
+    "href": "Articles/project_articles.html",
+    "title": "Project articles",
+    "section": "",
+    "text": "We do not have publications related to the project yet",
+    "crumbs": [
+      "Articles",
+      "Project articles"
+    ]
+  },
+  {
     "objectID": "index.html#floristic-and-vegetation-changes-in-european-wetlands",
     "href": "index.html#floristic-and-vegetation-changes-in-european-wetlands",
     "title": "WetFlorVegChange",
@@ -81,48 +123,6 @@
     "crumbs": [
       "People and cooperations",
       "Data contributors"
-    ]
-  },
-  {
-    "objectID": "Articles/related_articles.html",
-    "href": "Articles/related_articles.html",
-    "title": "related_articles",
-    "section": "",
-    "text": "Interesting publications about the topic\nKapfer, J., Hédl, R., Jurasinski, G., Kopecký, M., Schei, F. H., & Grytnes, J. A. (2017). Resurveying historical vegetation data–opportunities and challenges. Applied Vegetation Science, 20(2), 164-171. Doi:10.1111/avsc.12269",
-    "crumbs": [
-      "Articles",
-      "Related articles"
-    ]
-  },
-  {
-    "objectID": "Articles/articles.html",
-    "href": "Articles/articles.html",
-    "title": "Articles",
-    "section": "",
-    "text": "Our project is just beginning; therefore, we do not have any publications related to it yet. But we offer you a wide overview of existing literature about resurveys and resurveys in wetlands.\nproject articles\nrelated articles",
-    "crumbs": [
-      "Articles"
-    ]
-  },
-  {
-    "objectID": "Articles/project_articles.html",
-    "href": "Articles/project_articles.html",
-    "title": "Project articles",
-    "section": "",
-    "text": "We do not have publications related to the project yet",
-    "crumbs": [
-      "Articles",
-      "Project articles"
-    ]
-  },
-  {
-    "objectID": "Articles/articles.html#project-related-articles-and-other-interesting-publications",
-    "href": "Articles/articles.html#project-related-articles-and-other-interesting-publications",
-    "title": "Articles",
-    "section": "",
-    "text": "Our project is just beginning; therefore, we do not have any publications related to it yet. But we offer you a wide overview of existing literature about resurveys and resurveys in wetlands.\nproject articles\nrelated articles",
-    "crumbs": [
-      "Articles"
     ]
   }
 ]

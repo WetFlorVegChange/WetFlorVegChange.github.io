@@ -18,39 +18,35 @@ website:
     logo-alt: "Logo"
     collapse-level: 2
     contents:
-
-      - section: "About the project"
-        href: index.qmd
+      - text: "About the project"
+        file: index.qmd
 
       - section: "People and cooperations"
-        href: People/people_cooperations.qmd
+        file: People/people_cooperations.qmd
         contents:
           - text: "Core team"
-            href: People/core_team.qmd
+            file: People/core_team.qmd
           - text: "Data contributors"
-            href: People/data_contributors.qmd
+            file: People/data_contributors.qmd
 
       - section: "More about the project"
-        href: More/more_about.qmd
+        file: More/more_about.qmd
         contents:
           - text: "How to contribute"
-            href: More/instructions.qmd
+            file: More/instructions.qmd
           - text: "Data policy"
-            href: More/data_policy.qmd
+            file: More/data_policy.qmd
 
       - section: "Articles"
-        href: Articles/articles.qmd
+        file: Articles/articles.qmd
         contents:
           - text: "Project articles"
-            href: Articles/project_articles.qmd
+            file: Articles/project_articles.qmd
           - text: "Related articles"
-            href: Articles/related_articles.qmd
-
-      - section: "Links"
-        href: Links.qmd
-
-         
-        
+            file: Articles/related_articles.qmd
+            
+      - text: "Links"
+        file: Links.qmd
 
 format:
   html:
