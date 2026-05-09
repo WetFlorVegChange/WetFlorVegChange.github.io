@@ -10,26 +10,38 @@ editor: visual
 
 Wetlands are among the most threatened ecosystems in Europe and in the World. Despite their ecological importance, our understanding of long‑term floristic and vegetation changes at the continental scale remains fragmented. Most existing studies focus on local case studies, leaving large‑scale patterns and drivers poorly understood.
 
-WetFlorVegChange addresses this gap by building the first coordinated European network dedicated to wetland resurveys. The project brings together experts, historical data sets, and new field campaigns to assess how wetland vegetation has changed over the last century.
+**WetFlorVegChange** addresses this gap by building the first coordinated European network dedicated to wetland resurveys. The project brings together experts, historical data sets, and new field campaigns to assess how wetland vegetation has changed over the last century.
 
 **Our Goals**
 
-Document long‑term changes in wetland flora and vegetation across Europe
+-   Document long‑term changes in wetland flora and vegetation across Europe
 
-Compare trends between managed and unmanaged wetlands
+-   Compare trends between managed and unmanaged wetlands
 
-Identify the key drivers of changes (e.g., hydrological alteration, eutrophication, land‑use change, and climate warming)
+-   Identify the key drivers of changes (e.g., hydrological alteration, eutrophication, land‑use change, and climate warming)
 
-Assess impacts on protected, rare, and alien species
+-   Assess impacts on protected, rare, and alien species
 
-Provide evidence‑based guidelines for wetland conservation and management
+-   Provide evidence‑based guidelines for wetland conservation and management
 
 **Our Approach**
 
-We combine permanent and semi-permanent vegetation plots, repeated species pool surveys, historical literature, unpublished datasets, new field resurveys across Europe, GIS‑based spatial analyses, and advanced statistical modeling
+We combine multiple data sources and analytical tools to build the first continental‑scale picture of wetland vegetation change:
 
-The project will establish a dedicated ReSurveyWetlands database, dedicated to wetland vegetation resurveys, and cooperate with the initiative [ReSurvey Europe](https://euroveg.org/resurvey/)
+-   **Permanent and semi‑permanent plots** and **floristic resurveys** from across Europe
+
+-   **Gap‑targeted field resurveys** to revisit precisely located historical plots and fill missing regions or habitat types
+
+-   **Taxonomic and habitat harmonization** using standardized European systems to ensure comparability across countries and decades
+
+-   **Repeated species‑pool analyses** and **vegetation‑plot time series** to quantify changes in richness, composition, functional traits, and ecological indicators
+
+-   **GIS‑based environmental data** (climate, hydrology, soils, land use) to evaluate environmental and anthropogenic drivers
+
+-   **Comparisons of managed vs. unmanaged wetlands** to understand how conservation practices influence long‑term trends
+
+The project will establish **ReSurveyWetlands**, a dedicated database for wetland vegetation resurveys, developed in close cooperation with the [**ReSurveyEurope**](https://euroveg.org/resurvey/) initiative.
 
 **Funding and Timeline**
 
-WetFlorVegChange is funded by the Czech Science Foundation (GAČR standard project) under project number 26‑22183S and runs from 2026 to 2028.
+WetFlorVegChange is funded by the [Czech Science Foundation](https://gacr.cz/en/) (GAČR standard project) under project number 26‑22183S and runs from 2026 to 2028.
