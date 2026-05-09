@@ -1,8 +1,9 @@
 ---
-title: "Related Projects and Initiatives"
 format: html
 editor: visual
 ---
+
+# Related Projects and Initiatives
 
 -   [**ReSurveyEurope**](https://euroveg.org/resurvey/) - the largest European database of resurvey plots, integrated with the European Vegetation Archive. It currently includes more than 120,000 plots with repeated surveys across all European Habitats.
 

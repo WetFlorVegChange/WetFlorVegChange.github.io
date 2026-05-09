@@ -1,8 +1,9 @@
 ---
-title: "Core team"
 format: html
 editor: visual
 ---
+
+# Core team
 
 The core team of this project is mainly composed of scientists from Masaryk University (Brno, Czech Republic).
 
@@ -95,5 +96,3 @@ Lecturer at the University of Göttingen, Germany
 Expert in long‑term macrophyte vegetation change
 
 [*Role in the project:*]{.underline} Data collection, methodological consultation, analysis, and writing 
-
-![](images/clipboard-4165835978.png)

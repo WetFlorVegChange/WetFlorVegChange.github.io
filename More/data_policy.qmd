@@ -1,6 +1,14 @@
 ---
-title: "data_policy"
 format: html
 editor: visual
 ---
 
+# Data policy
+
+-   **Contributor communication** — All data contributors are added to the project’s mailing list and will receive periodic updates on project progress, analyses, and upcoming publications.
+
+-   **Data ownership** — Contributors retain full ownership of their data. They are responsible for communicating with the project leader or data managers regarding permissions, use conditions, and any restrictions.
+
+-   **Data use and sharing** — Submitted data are used exclusively for non‑commercial, academic research. No data will be shared with third parties without explicit consent from the data owners. Upon submission, contributors may choose whether their data can also be shared with the **ReSurveyEurope** database; if they decline, their data will be used only within **WetFlorVegChange** and will not be subject to ReSurveyEurope rules.
+
+-   **Authorship and contributions** — All data contributors will be invited to become co‑authors of publications that use their data. Co‑authorship is not automatic: it requires an intellectual contribution, such as conceptual input, preparation of new data, assistance with interpretation or analysis, or writing parts of the manuscript (in accordance with the **IAVS Code of Professional Ethics**). Contributors who do not participate intellectually may still qualify as co‑authors if (1) they provide unpublished data from understudied European regions or vegetation types, or (2) they contribute at least 30 time series with ≥2 repeated plots for species‑poor vegetation (\<20 species/plot), or 15 time series for species‑rich vegetation (\>20 species/plot).

@@ -1,8 +1,9 @@
 ---
-title: "Project-related articles and other interesting publications"
 format: html
 editor: visual
 ---
+
+# Project-related articles and other interesting publications
 
 Our project is just beginning; therefore, we do not have any publications related to it yet. But we offer you a wide overview of existing literature about resurveys and resurveys in wetlands.
 

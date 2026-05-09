@@ -1,10 +1,9 @@
 ---
-title: "more_about"
 format: html
 editor: visual
 ---
 
-![](images/clipboard-70648107.png)
+# More about the project
 
 The project is composed of four working packages:
 
@@ -45,3 +44,5 @@ a\) Are current management practices effective?
 b\) How can wetland nature conservation policies be improved?
 
 c\) How can current trends be stopped or reversed? (if necessary)
+
+![](images/clipboard-70648107.png){width="647"}

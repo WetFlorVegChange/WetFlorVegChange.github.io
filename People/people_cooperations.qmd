@@ -1,5 +1,6 @@
 ---
-title: "People and cooperations"
 format: html
 editor: visual
 ---
+
+# People and cooperations
