@@ -9,7 +9,7 @@ The project is composed of four working packages:
 
 **WP1. Database and network of experts.**
 
-The aim of this WP is to establish a European network of wetland vegetation ecologists and gather most of the existing resurveyed plots and vegetation-plot time series of inland wetland vegetation (including eu- and mesotrophic aquatic, marsh, spring, peatland, annual temporary pond, oligotrophic water vegetation, and wet meadows). We will create a common repository for new wetland resurveys and related information, “ReSurveyWetlands”. This database will eventually be integrated into the ReSurveyEurope database (<https://euroveg.org/resurvey/>), according to the consensus of data contributors.
+This WP aims to establish a European network of wetland vegetation ecologists and gather most of the existing resurveyed plots and vegetation-plot time series of inland wetland vegetation (including eu- and mesotrophic aquatic, marsh, spring, peatland, annual temporary pond, oligotrophic water vegetation, and wet meadows). We will create a common repository for new wetland resurveys and related information, “ReSurveyWetlands”. This database will eventually be integrated into the ReSurveyEurope database (<https://euroveg.org/resurvey/>), according to the consensus of data contributors.
 
 **WP2. Understanding Large-scale Floristic and Vegetation Changes.**
 
@@ -37,7 +37,7 @@ c\) What are the trends for protected and alien species?
 
 **WP4. Assessment of conservation practices.**
 
-The aim of this last working package isto consolidate all the results and develop guidelines for the conservation of wetlands based on our findings. It is based on the following questions:
+The aim of this last working package is to consolidate all the results and develop guidelines for the conservation of wetlands based on our findings. It is based on the following questions:
 
 a\) Are current management practices effective?
 
