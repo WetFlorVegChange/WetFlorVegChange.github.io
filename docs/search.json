@@ -109,7 +109,7 @@
     "href": "More/more_about.html",
     "title": "More about the project",
     "section": "",
-    "text": "More about the project\nThe project is composed of four working packages:\nWP1. Database and network of experts.\nThe aim of this WP is to establish a European network of wetland vegetation ecologists and gather most of the existing resurveyed plots and vegetation-plot time series of inland wetland vegetation (including eu- and mesotrophic aquatic, marsh, spring, peatland, annual temporary pond, oligotrophic water vegetation, and wet meadows). We will create a common repository for new wetland resurveys and related information, “ReSurveyWetlands”. This database will eventually be integrated into the ReSurveyEurope database (https://euroveg.org/resurvey/), according to the consensus of data contributors.\nWP2. Understanding Large-scale Floristic and Vegetation Changes.\nThe goal of this working package is to explore the trends in floristic and vegetation changes across European wetlands over the past 30 years. The geographic scope will encompass Europe, excluding the Nordic Countries, Russia, and Belarus due to insufficient data.\nWe aim to answer the following questions:\na) Which wetland vegetation types and habitats are most impacted by floristic and vegetation changes?\nb) How do trends in wetlands vary across different European regions?\nc) Do wetlands in Central European countries tend to become more like those in Southern countries?\nWP3. Drivers and effects of management.\nThe goal of this working package is to explore the drivers of vegetation changes across different wetland types and trends in managed versus unmanaged wetlands.\nWe will answer the following questions:\na) What are the main environmental and anthropogenic drivers of floristic and vegetation changes in wetlands?\nb) How do floristic and vegetation changes differ in managed and unmanaged wetlands?\nc) What are the trends for protected and alien species?\nWP4. Assessment of conservation practices.\nThe aim of this last working package isto consolidate all the results and develop guidelines for the conservation of wetlands based on our findings. It is based on the following questions:\na) Are current management practices effective?\nb) How can wetland nature conservation policies be improved?\nc) How can current trends be stopped or reversed? (if necessary)",
+    "text": "The project is composed of four working packages:\n\n\nThis WP aims to establish a European network of wetland vegetation ecologists and gather most of the existing resurveyed plots and vegetation-plot time series of inland wetland vegetation (including eu- and mesotrophic aquatic, marsh, spring, peatland, annual temporary pond, oligotrophic water vegetation, and wet meadows). We will create a common repository for new wetland resurveys and related information, ReSurveyWetlands. This database will eventually be integrated into the ReSurveyEurope database (https://euroveg.org/resurvey/), according to the consensus of data contributors.\n\n\n\nThe goal of this working package is to explore the trends in floristic and vegetation changes across European wetlands over the past 30 years. The geographic scope will encompass Europe, excluding the Nordic Countries, Russia, and Belarus due to insufficient data.\nWe aim to answer the following questions:\na) Which wetland vegetation types and habitats are most impacted by floristic and vegetation changes?\nb) How do trends in wetlands vary across different European regions?\nc) Do wetlands in Central European countries tend to become more like those in Southern countries?\n\n\n\nThe goal of this working package is to explore the drivers of vegetation changes across different wetland types and trends in managed versus unmanaged wetlands.\nWe will answer the following questions:\na) What are the main environmental and anthropogenic drivers of floristic and vegetation changes in wetlands?\nb) How do floristic and vegetation changes differ in managed and unmanaged wetlands?\nc) What are the trends for protected and alien species?\n\n\n\nThe aim of this last working package is to consolidate all the results and develop guidelines for the conservation of wetlands based on our findings. It is based on the following questions:\na) Are current management practices effective?\nb) How can wetland nature conservation policies be improved?\nc) How can current trends be stopped or reversed? (if necessary)",
     "crumbs": [
       "More about the project"
     ]
@@ -160,7 +160,7 @@
     "href": "People/people_cooperations.html",
     "title": "People and cooperations",
     "section": "",
-    "text": "People and cooperations",
+    "text": "People and cooperations\nThe project WetFlorVegChange was conceived by a team of Central European scientists, based primarily at Masaryk University (Core team). However, because one of the main goals of this project is to build a European network of wetland‑vegetation ecologists and to assemble all existing vegetation‑plot time series of inland wetland habitats into the ReSurveyWetlands database, the project relies on the collaboration of numerous experts across Europe (Data contributors).",
     "crumbs": [
       "People and cooperations"
     ]
@@ -174,6 +174,46 @@
     "crumbs": [
       "More about the project",
       "Data policy"
+    ]
+  },
+  {
+    "objectID": "More/more_about.html#wp1.-database-and-network-of-experts.",
+    "href": "More/more_about.html#wp1.-database-and-network-of-experts.",
+    "title": "More about the project",
+    "section": "",
+    "text": "This WP aims to establish a European network of wetland vegetation ecologists and gather most of the existing resurveyed plots and vegetation-plot time series of inland wetland vegetation (including eu- and mesotrophic aquatic, marsh, spring, peatland, annual temporary pond, oligotrophic water vegetation, and wet meadows). We will create a common repository for new wetland resurveys and related information, ReSurveyWetlands. This database will eventually be integrated into the ReSurveyEurope database (https://euroveg.org/resurvey/), according to the consensus of data contributors.",
+    "crumbs": [
+      "More about the project"
+    ]
+  },
+  {
+    "objectID": "More/more_about.html#wp2.-understanding-large-scale-floristic-and-vegetation-changes.",
+    "href": "More/more_about.html#wp2.-understanding-large-scale-floristic-and-vegetation-changes.",
+    "title": "More about the project",
+    "section": "",
+    "text": "The goal of this working package is to explore the trends in floristic and vegetation changes across European wetlands over the past 30 years. The geographic scope will encompass Europe, excluding the Nordic Countries, Russia, and Belarus due to insufficient data.\nWe aim to answer the following questions:\na) Which wetland vegetation types and habitats are most impacted by floristic and vegetation changes?\nb) How do trends in wetlands vary across different European regions?\nc) Do wetlands in Central European countries tend to become more like those in Southern countries?",
+    "crumbs": [
+      "More about the project"
+    ]
+  },
+  {
+    "objectID": "More/more_about.html#wp3.-drivers-and-effects-of-management.",
+    "href": "More/more_about.html#wp3.-drivers-and-effects-of-management.",
+    "title": "More about the project",
+    "section": "",
+    "text": "The goal of this working package is to explore the drivers of vegetation changes across different wetland types and trends in managed versus unmanaged wetlands.\nWe will answer the following questions:\na) What are the main environmental and anthropogenic drivers of floristic and vegetation changes in wetlands?\nb) How do floristic and vegetation changes differ in managed and unmanaged wetlands?\nc) What are the trends for protected and alien species?",
+    "crumbs": [
+      "More about the project"
+    ]
+  },
+  {
+    "objectID": "More/more_about.html#wp4.-assessment-of-conservation-practices.",
+    "href": "More/more_about.html#wp4.-assessment-of-conservation-practices.",
+    "title": "More about the project",
+    "section": "",
+    "text": "The aim of this last working package is to consolidate all the results and develop guidelines for the conservation of wetlands based on our findings. It is based on the following questions:\na) Are current management practices effective?\nb) How can wetland nature conservation policies be improved?\nc) How can current trends be stopped or reversed? (if necessary)",
+    "crumbs": [
+      "More about the project"
     ]
   }
 ]

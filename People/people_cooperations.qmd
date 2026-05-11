@@ -5,4 +5,4 @@ editor: visual
 
 # People and cooperations
 
-The project **WetFlorVegChange** was conceived by a team of Central European scientists, based primarily at Masaryk University ([Core team](https://wetflorvegchange.github.io/People/core_team.html)), but the project would not be possible without the collaboration of numerous European experts ([Data contributors](https://wetflorvegchange.github.io/People/data_contributors.html)).
+The project **WetFlorVegChange** was conceived by a team of Central European scientists, based primarily at Masaryk University ([Core team](https://wetflorvegchange.github.io/People/core_team.html)). However, because one of the main goals of this project is to build a European network of wetland‑vegetation ecologists and to assemble all existing vegetation‑plot time series of inland wetland habitats into the **ReSurveyWetlands database**, the project relies on the collaboration of numerous experts across Europe ([Data contributors](https://wetflorvegchange.github.io/People/data_contributors.html)).
