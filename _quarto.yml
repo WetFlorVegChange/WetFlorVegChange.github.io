@@ -32,6 +32,8 @@ website:
       - section: "More about the project"
         file: More/more_about.qmd
         contents:
+          - text: "Data requirements"
+            file: More/What_data.qmd      
           - text: "How to contribute"
             file: More/instructions.qmd
           - text: "Data policy"

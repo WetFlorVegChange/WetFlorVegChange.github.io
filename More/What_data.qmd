@@ -1,0 +1,60 @@
+---
+format: html
+editor: visual
+---
+
+# What data are we looking for?
+
+● **Permanent and (semi-)permanent plots**
+
+● **Repeated surveys**
+
+● **Repeated floristic species pool surveys** of small wetlands (e.g., springs, ponds, pools, stream sections, etc.)
+
+We are interested in time-series whose first survey was within the following habitat categories:
+
+![](images/clipboard-4247610866.png){width="617"}
+
+Tab.1 - List of habitats and vegetation types according to the old EUNIS classification and Annex I list of the Habitat Directive.
+
+![](images/clipboard-2282686407.png){width="617"}
+
+Tab. 2 - List of Habitats according to the new revised EUNIS Habitat classification (the revision is still in progress for the inland wetland habitats).
+
+## **Data Requirements**
+
+To ensure maximum utility and comparability, the data sets need to include:
+
+● A complete **list of vascular plants**, preferably with information on **abundance or abundance proxies** such as cover or biomass
+
+● **Location:** Geographical coordinates or detailed site descriptions.
+
+● Location **precision** and, if necessary, a short description of the reasons that prevented finding the exact location.
+
+● **Survey Details:** Sampling date and methodological notes (e.g., sampling surface, cover scale, inclusion/exclusion of algae and bryophytes, etc.).
+
+● Specification of the **protected area** name and type (if applicable).
+
+● **Physicochemical and other additional descriptive parameters,** and **management types** of the survey locations (if available).
+
+● **Contact.** Name and contact of the data owner and data custodian
+
+Data should be provided in **Excel** or **Turboveg**. Text formats or undigitized data are not ideal, but we will also try to accommodate them.
+
+## **Additional ways to cooperate**
+
+● **Internships:** If you supervise a student whose thesis relates to this subject, they can apply for an internship in our department (various mobility programs are available).
+
+● **New Resurveys:** If you have good initial datasets that could be repeated within the next two years, you can conduct the resurveys yourself and contribute. In this case, contact us. We will send you a brief manual on resurveying plots for this specific project.
+
+● If you have interesting data sets or a specific data set (published or unpublished by old authors) that you are unable to resurvey, contact us, and we can try to organize joint fieldwork.
+
+## **Why contribute?**
+
+● Become part of a **European-wide expert network** on wetland ecology.
+
+● Gain **co-authorship opportunities** in joint publications
+
+● Increase the **visibility** of your datasets and research
+
+● Supportthe development of **evidence-based conservation guidelines** for wetlands

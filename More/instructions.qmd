@@ -7,9 +7,9 @@ editor: visual
 
 First, contact the project leader, **Flavia Landucci** ([flavia.landucci\@gmail.com](mailto:flavia.landucci@gmail.com)), and express your interest in participating in this project.
 
-You can contribute by sharing with us
+You can contribute by sharing with us:
 
-\-**Already existing data.** Time series already digitized or available in literature or reports, but not stored in any existing database.
+\-**Already existing data.** Time series that are already digitized, available in literature or reports, but not stored in any existing database.
 
 \-**Resurveying wetland sites**. If you have good initial datasets that could be repeated within the next two years, you can conduct the resurveys yourself.
 
