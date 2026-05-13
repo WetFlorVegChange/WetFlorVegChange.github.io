@@ -37,4 +37,4 @@ Rion, V., Gallandat, J. D., Gobat, J. M., & Vittoz, P. (2018). Recent changes in
 
 Sopotlieva, D., Velev, N., Terziyska, T., & Apostolova, I. (2024, December). Mountain Wetland Vegetation Changes for Thirteen Years in Vitosha Mountain (Bulgaria). In *Proceedings of the Bulgarian Academy of Sciences* (Vol. 77, No. 12, pp. 1776-1783). [Doi: 10.7546/CRABS.2024.12.05](https://doi.org/10.7546/CRABS.2024.12.05)
 
-ter Braak, C. J., & Wiertz, J. (1994). On the statistical analysis of vegetation change: a wetland affected by water extraction and soil acidification. Journal of vegetation science, 5(3), 361-372. [Doi: 10.2307/3235860](https://doi.org/10.2307/3235860)
+ter Braak, C. J., & Wiertz, J. (1994). On the statistical analysis of vegetation change: a wetland affected by water extraction and soil acidification. *Journal of Vegetation Science*, 5(3), 361-372. [Doi: 10.2307/3235860](https://doi.org/10.2307/3235860)
