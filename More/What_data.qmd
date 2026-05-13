@@ -47,7 +47,7 @@ Data should be provided in **Excel** or **Turboveg**. Text formats or undigitize
 
 ● **New Resurveys:** If you have good initial datasets that could be repeated within the next two years, you can conduct the resurveys yourself and contribute. In this case, contact us. We will send you a brief manual on resurveying plots for this specific project.
 
-● If you have interesting data sets or a specific data set (published or unpublished by old authors) that you are unable to resurvey, contact us, and we can try to organize joint fieldwork.
+● If you have interesting data sets or a specific data set (published or unpublished by old authors) that you are unable to resurvey, contact us, and we can try to organize a joint fieldwork.
 
 ## **Why contribute?**
 
