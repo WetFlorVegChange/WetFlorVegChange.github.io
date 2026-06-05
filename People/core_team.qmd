@@ -11,13 +11,13 @@ The core team of this project is mainly composed of scientists from Masaryk Univ
 
 Senior researcher at the Vegetation Science Group, Masaryk University (Czech Republic). Expert in aquatic and marsh habitats and vegetation in Europe.
 
-[*Role in the project:*]{.underline}
+[*Role in the project:*]{.underline} Project coordination, conceptual leading, fieldwork, data analysis, conference presentations, paper writing
 
 **Irena Axmanová**
 
 Assistant Professor at the Vegetation Science Group, Masaryk University (Czech Republic). Vegetation ecologist specialized in alien species, and functional and phylogenetic diversity of plant communities.
 
-[*Role in the project:*]{.underline}
+[*Role in the project:*]{.underline} Data collection and preparation, paper writing
 
 **Michal Hájek**
 
@@ -25,7 +25,7 @@ Professor at Masaryk University, Czech Republic
 
 Expert in fen ecology and European wetland diversity
 
-[*Role in the project:*]{.underline}
+[*Role in the project:*]{.underline} Data collection, fieldwork, methodological consultation, paper writing
 
 **Petra Hájková**
 
@@ -33,7 +33,7 @@ Researcher at Masaryk University, Czech Republic
 
 Expert in wetland vegetation and bryophytes.
 
-[*Role in the project:*]{.underline}
+[*Role in the project:*]{.underline} Data collection, fieldwork, paper writing
 
 **Svitlana Iemelianova**
 
@@ -41,7 +41,7 @@ Researcher at Masaryk University, Czech Republic
 
 Expert in wetland vegetation and habitats, exotic species.
 
-[*Role in the project:*]{.underline}
+[*Role in the project:*]{.underline} Fieldwork, literature search, data collection, data analysis, conference presentations
 
 **Julia Kellermannová**
 
@@ -49,7 +49,7 @@ PhD student at Masaryk University, Czech Republic
 
 Working with functional traits and vegetation changes.
 
-[*Role in the project:*]{.underline}
+[*Role in the project:*]{.underline} Fieldwork, literature search, data digitization and preparation, paper writing, conference presentations
 
 **Barbora Klímová**
 
@@ -63,7 +63,7 @@ Researcher at Masaryk University, Czech Republic
 
 Expert in wetland vegetation and vegetation databases
 
-[*Role in the project:*]{.underline}
+[*Role in the project:*]{.underline} Data manager, data collection, fieldwork, paper writing
 
 **Zdenka Preislerová**
 
@@ -71,7 +71,7 @@ Researcher at Masaryk University, Czech Republic
 
 Expert in vegetation databases and wetland classification
 
-[*Role in the project:*]{.underline} Fieldwork, database administration, data analysis, writing 
+[*Role in the project:*]{.underline} Fieldwork, database administration, data analysis, writing
 
 **Kateřina Šumberová**
 
@@ -79,7 +79,7 @@ Researcher at the Czech Academy of Sciences
 
 Specialist in aquatic and marsh vegetation
 
-[*Role in the project:*]{.underline} Fieldwork, data analysis, writing 
+[*Role in the project:*]{.underline} Fieldwork, data analysis, writing
 
 **Lubomír Tichý**
 
@@ -87,7 +87,7 @@ Professor at Masaryk University, Czech Republic
 
 Developer of JUICE and specialist in vegetation classification
 
-[*Role in the project:*]{.underline} Data analysis, writing, and communication with conservation agencies 
+[*Role in the project:*]{.underline} Data analysis, writing, and communication with conservation agencies
 
 **Friedemann von Lampe**
 
@@ -95,4 +95,4 @@ Lecturer at the University of Göttingen, Germany
 
 Expert in long‑term macrophyte vegetation change
 
-[*Role in the project:*]{.underline} Data collection, methodological consultation, analysis, and writing 
+[*Role in the project:*]{.underline} Data collection, methodological consultation, analysis, and writing

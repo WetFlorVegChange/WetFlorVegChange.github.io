@@ -13,11 +13,11 @@ editor: visual
 
 We are interested in time-series whose first survey was within the following habitat categories:
 
-![](images/clipboard-4247610866.png){width="617"}
+![](images/clipboard-407154021.png)
 
 Tab.1 - List of habitats and vegetation types according to the old EUNIS classification and Annex I list of the Habitat Directive.
 
-![](images/clipboard-2282686407.png){width="617"}
+![](images/clipboard-3138140843.png){width="722"}
 
 Tab. 2 - List of Habitats according to the new revised EUNIS Habitat classification (the revision is still in progress for the inland wetland habitats).
 

@@ -1,107 +1,23 @@
 [
   {
+    "objectID": "People/people_cooperations.html",
+    "href": "People/people_cooperations.html",
+    "title": "People and cooperations",
+    "section": "",
+    "text": "People and cooperations\nThe project WetFlorVegChange was conceived by a team of Central European scientists, based primarily at Masaryk University (Core team). However, because one of the main goals of this project is to build a European network of wetland‑vegetation ecologists and to assemble all existing vegetation‑plot time series of inland wetland habitats into the ReSurveyWetlands database, the project relies on the collaboration of numerous experts across Europe (Data contributors).",
+    "crumbs": [
+      "People and cooperations"
+    ]
+  },
+  {
     "objectID": "People/core_team.html",
     "href": "People/core_team.html",
     "title": "Core team",
     "section": "",
-    "text": "Core team\nThe core team of this project is mainly composed of scientists from Masaryk University (Brno, Czech Republic).\nFlavia Landucci (Project leader) \nSenior researcher at the Vegetation Science Group, Masaryk University (Czech Republic). Expert in aquatic and marsh habitats and vegetation in Europe.\nRole in the project:\nIrena Axmanová\nAssistant Professor at the Vegetation Science Group, Masaryk University (Czech Republic). Vegetation ecologist specialized in alien species, and functional and phylogenetic diversity of plant communities.\nRole in the project:\nMichal Hájek\nProfessor at Masaryk University, Czech Republic\nExpert in fen ecology and European wetland diversity\nRole in the project:\nPetra Hájková\nResearcher at Masaryk University, Czech Republic\nExpert in wetland vegetation and bryophytes.\nRole in the project:\nSvitlana Iemelianova\nResearcher at Masaryk University, Czech Republic\nExpert in wetland vegetation and habitats, exotic species.\nRole in the project:\nJulia Kellermannová\nPhD student at Masaryk University, Czech Republic\nWorking with functional traits and vegetation changes.\nRole in the project:\nBarbora Klímová\nPhD student at Masaryk University, Czech Republic\nRole in the project: GIS, spatial analysis, modeling, visualization \nTomáš Peterka\nResearcher at Masaryk University, Czech Republic\nExpert in wetland vegetation and vegetation databases\nRole in the project:\nZdenka Preislerová\nResearcher at Masaryk University, Czech Republic\nExpert in vegetation databases and wetland classification\nRole in the project: Fieldwork, database administration, data analysis, writing \nKateřina Šumberová\nResearcher at the Czech Academy of Sciences\nSpecialist in aquatic and marsh vegetation\nRole in the project: Fieldwork, data analysis, writing \nLubomír Tichý\nProfessor at Masaryk University, Czech Republic\nDeveloper of JUICE and specialist in vegetation classification\nRole in the project: Data analysis, writing, and communication with conservation agencies \nFriedemann von Lampe\nLecturer at the University of Göttingen, Germany\nExpert in long‑term macrophyte vegetation change\nRole in the project: Data collection, methodological consultation, analysis, and writing",
+    "text": "Core team\nThe core team of this project is mainly composed of scientists from Masaryk University (Brno, Czech Republic).\nFlavia Landucci (Project leader) \nSenior researcher at the Vegetation Science Group, Masaryk University (Czech Republic). Expert in aquatic and marsh habitats and vegetation in Europe.\nRole in the project: Project coordination, conceptual leading, fieldwork, data analysis, conference presentations, paper writing\nIrena Axmanová\nAssistant Professor at the Vegetation Science Group, Masaryk University (Czech Republic). Vegetation ecologist specialized in alien species, and functional and phylogenetic diversity of plant communities.\nRole in the project: Data collection and preparation, paper writing\nMichal Hájek\nProfessor at Masaryk University, Czech Republic\nExpert in fen ecology and European wetland diversity\nRole in the project: Data collection, fieldwork, methodological consultation, paper writing\nPetra Hájková\nResearcher at Masaryk University, Czech Republic\nExpert in wetland vegetation and bryophytes.\nRole in the project: Data collection, fieldwork, paper writing\nSvitlana Iemelianova\nResearcher at Masaryk University, Czech Republic\nExpert in wetland vegetation and habitats, exotic species.\nRole in the project: Fieldwork, literature search, data collection, data analysis, conference presentations\nJulia Kellermannová\nPhD student at Masaryk University, Czech Republic\nWorking with functional traits and vegetation changes.\nRole in the project: Fieldwork, literature search, data digitization and preparation, paper writing, conference presentations\nBarbora Klímová\nPhD student at Masaryk University, Czech Republic\nRole in the project: GIS, spatial analysis, modeling, visualization \nTomáš Peterka\nResearcher at Masaryk University, Czech Republic\nExpert in wetland vegetation and vegetation databases\nRole in the project: Data manager, data collection, fieldwork, paper writing\nZdenka Preislerová\nResearcher at Masaryk University, Czech Republic\nExpert in vegetation databases and wetland classification\nRole in the project: Fieldwork, database administration, data analysis, writing\nKateřina Šumberová\nResearcher at the Czech Academy of Sciences\nSpecialist in aquatic and marsh vegetation\nRole in the project: Fieldwork, data analysis, writing\nLubomír Tichý\nProfessor at Masaryk University, Czech Republic\nDeveloper of JUICE and specialist in vegetation classification\nRole in the project: Data analysis, writing, and communication with conservation agencies\nFriedemann von Lampe\nLecturer at the University of Göttingen, Germany\nExpert in long‑term macrophyte vegetation change\nRole in the project: Data collection, methodological consultation, analysis, and writing",
     "crumbs": [
       "People and cooperations",
       "Core team"
-    ]
-  },
-  {
-    "objectID": "More/instructions.html",
-    "href": "More/instructions.html",
-    "title": "How to contribute?",
-    "section": "",
-    "text": "How to contribute?\nFirst, contact the project leader, Flavia Landucci (flavia.landucci@gmail.com), and express your interest in participating in this project.\nYou can contribute by sharing with us:\n-Already existing data. Time series that are already digitized, available in literature or reports, but not stored in any existing database.\n-Resurveying wetland sites. If you have good initial datasets that could be repeated within the next two years, you can conduct the resurveys yourself.\nIt is possible to contribute your data in two ways:\n-Contribute them to the ReSurvey Europe database (https://euroveg.org/resurvey/) before October 2027 (the sooner the better). In this case, please follow all instructions on the ReSurvey webpage and notify Flavia Landucci (flavia.landucci@gmail.com) that you have contributed your data through ReSurvey Europe.\n-Share them directly with our group. If, for some reason, you want to share your data only with our project and not contribute your data to ReSurvey Europe, or you do not have time to properly digitize them in a TURBOVEG database, you can contribute them directly to our data managers: Tomáš Peterka: (peterkatomasek@seznam.cz) for mires and bogs, and Zdenka Preislerová (zpreislerova@gmail.com) for all other wetland types.",
-    "crumbs": [
-      "More about the project",
-      "How to contribute"
-    ]
-  },
-  {
-    "objectID": "More/instructions.html#how-to-contribute",
-    "href": "More/instructions.html#how-to-contribute",
-    "title": "Instructions",
-    "section": "",
-    "text": "First, contact the project leader, Flavia Landucci (flavia.landucci@gmail.com), and express your interest in participating in this project.\nYou can contribute by sharing with us\n-Already existing data. Time series already digitized or available in literature or reports, but not stored in any existing database.\n-Resurveying wetland sites. If you have good initial datasets that could be repeated within the next two years, you can conduct the resurveys yourself.\nIt is possible to contribute your data in two ways:\n-Contribute them to the ReSurvey Europe database (https://euroveg.org/resurvey/) before October 2027 (the sooner the better). In this case, please follow all instructions on the ReSurvey webpage and notify Flavia Landucci (flavia.landucci@gmail.com) that you have contributed your data through ReSurvey Europe.\n-Share them directly with our group. If, for some reason, you want to share your data only with our project and not contribute your data to ReSurvey Europe, or you do not have time to properly digitize them in a TURBOVEG database, you can contribute them directly to our data managers: Tomáš Peterka: (peterkatomasek@seznam.cz) for mires and bogs, and Zdenka Preislerová (zpreislerova@gmail.com) for all other wetland types.",
-    "crumbs": [
-      "More about the project",
-      "How to contribute"
-    ]
-  },
-  {
-    "objectID": "Links.html",
-    "href": "Links.html",
-    "title": "Related Projects and Initiatives",
-    "section": "",
-    "text": "Related Projects and Initiatives\n\nReSurveyEurope - the largest European database of resurvey plots, integrated with the European Vegetation Archive. It currently includes more than 120,000 plots with repeated surveys across all European Habitats.\nforestREplot– a database of forest herb‑layer resurvey plots. forestREplot and ReSurveyEurope exchange European datasets when data owners provide consent.\nGLORIA – the Global Observation Research Initiative in Alpine Environments. GLORIA contributes European datasets to ReSurveyEurope.\nLOTVS – the Long‑Term Vegetation Sampling database. LOTVS and ReSurveyEurope share European data when data owners.\nsPlot – the Global Vegetation Database. Starting with version 4.0, sPlot is collecting vegetation time‑series outside Europe and is seeking consent from ReSurveyEurope contributors to combine European datasets with global data for analyses following sPlot rules.\nVegCHange – a toolbox for investigating anthropogenic changes in Swiss flora and vegetation.\nEVAmap– is a mapping application for all plots included in the European Vegetation Archive and ResurveyEurope. It allows selecting plots based on geographical location, along with other criteria. It also assesses which plots have been resurveyed to assess vegetation changes over time.",
-    "crumbs": [
-      "Links"
-    ]
-  },
-  {
-    "objectID": "Links.html#related-projects-and-initiatives",
-    "href": "Links.html#related-projects-and-initiatives",
-    "title": "Links",
-    "section": "",
-    "text": "ReSurveyEurope - the largest European database of resurvey plots, integrated with the European Vegetation Archive. It currently includes more than 120,000 plots with repeated surveys across all European Habitats.\nforestREplot– a database of forest herb‑layer resurvey plots. forestREplot and ReSurveyEurope exchange European datasets when data owners provide consent.\nGLORIA – the Global Observation Research Initiative in Alpine Environments. GLORIA contributes European datasets to ReSurveyEurope.\nLOTVS – the Long‑Term Vegetation Sampling database. LOTVS and ReSurveyEurope share European data when data owners.\nsPlot – the Global Vegetation Database. Starting with version 4.0, sPlot is collecting vegetation time‑series outside Europe and is seeking consent from ReSurveyEurope contributors to combine European datasets with global data for analyses following sPlot rules.\nVegCHange – a toolbox for investigating anthropogenic changes in Swiss flora and vegetation.\nEVAmap– is a mapping application for all plots included in the European Vegetation Archive and ResurveyEurope. It allows selecting plots based on geographical location, along with other criteria. It also assesses which plots have been resurveyed to assess vegetation changes over time.",
-    "crumbs": [
-      "Links"
-    ]
-  },
-  {
-    "objectID": "Articles/related_articles.html",
-    "href": "Articles/related_articles.html",
-    "title": "Interesting publications about the topic",
-    "section": "",
-    "text": "Interesting publications about the topic\nAlfonsi, E., Benot, M. L., Fievet, V., & Alard, D. (2017). Addressing species turnover and community changes in vegetation resurvey studies. Applied Vegetation Science, 20(2), 172-182. Doi: 10.1111/avsc.12258\nBergamini, A., Peintinger, M., Fakheran, S., Moradi, H., Schmid, B., & Joshi, J. (2009). Loss of habitat specialists despite conservation management in fen remnants 1995–2006. Perspectives in Plant Ecology, Evolution and Systematics, 11(1), 65-79. Doi: 10.1016/j.ppees.2008.10.001\nBritton, A. J., Hewison, R. L., Mitchell, R. J., & Riach, D. (2017). Pollution and climate change drive long-term change in Scottish wetland vegetation composition. Biological Conservation, 210, 72-79. https://doi.org/10.1034/j.1600-0587.2002.250605.x\nBurnside, N. G., Joyce, C. B., Puurmann, E., & Scott, D. M. (2007). Use of vegetation classification and plant indicators to assess grazing abandonment in Estonian coastal wetlands. Journal of Vegetation Science, 18(5), 645-654. Doi: 10.1111/j.1654-1103.2007.tb02578.x\nGunnarsson, U., Malmer, N., & Rydin, H. (2002). Dynamics or constancy in Sphagnum dominated mire ecosystems? A 40‐year study. Ecography, 25(6), 685-704. Doi: 10.1034/j.1600-0587.2002.250605.x\nHédl, R., Bernhardt-Römermann, M., Grytnes, J. A., Jurasinski, G., & Ewald, J. (2017). Resurvey of historical vegetation plots: a tool for understanding long-term dynamics of plant communities. Applied Vegetation Science, 20(2), 161-163. Doi: 10.1111/avsc.12307\nKapfer, J., Hédl, R., Jurasinski, G., Kopecký, M., Schei, F. H., & Grytnes, J. A. (2017). Resurveying historical vegetation data–opportunities and challenges. Applied Vegetation Science, 20(2), 164-171. Doi:10.1111/avsc.12269\nKlinkovská, K., Glaser, M., Danihelka, J., Kaplan, Z., Knollová, I., Novotný, P., … & Chytrý, M. (2024). Dynamics of the Czech flora over the last 60 years: Winners, losers and causes of changes. Biological Conservation, 292, 110502. Doi:10.1016/j.biocon.2024.110502\nKlinkovská, K., Sperandii, M. G., Knollová, I., Danihelka, J., Hájek, M., Hájková, P., … & Chytrý, M. (2025). Half a Century of Temperate Non‐Forest Vegetation Changes: No Net Loss in Species Richness, but Considerable Shifts in Taxonomic and Functional Composition. Global Change Biology, 31(1), e70030. Doi:10.1111/gcb.70030\nKnollová, I., Chytrý, M., Bruelheide, H., Dullinger, S., Jandt, U., Bernhardt‐Römermann, M., … & Moiseev, P. (2024). ReSurveyEurope: A database of resurveyed vegetation plots in Europe. Journal of Vegetation Science, 35(2), e13235. Doi: 10.1111/jvs.13235\nJandt, U., Bruelheide, H., Berg, C., Bernhardt-Römermann, M., Blüml, V., Bode, F., … & Wulf, M. (2022). ReSurveyGermany: Vegetation-plot time-series over the past hundred years in Germany. Scientific Data, 9(1), 631. Doi: 10.1038/s41597-022-01688-6\nMidolo, G., Clark, A. T., Chytrý, M., Essl, F., Dullinger, S., Jandt, U., … & Keil, P. (2026). Sixty years of plant community change in Europe indicate a shift toward nutrient-richer and denser vegetation. Science Advances, 12(15), eaeb2493. Doi: 10.1126/sciadv.aeb2493\nOrtmann-Ajkai, A., Csicsek, G., Hollós, R., Magyaros, V., Wágner, L., & Lóczy, D. (2018). Twenty-years’ changes of wetland vegetation: effects of floodplain-level threats. Wetlands, 38(3), 591-604. Doi: 10.1007/s13157-018-1002-0\nPinceloup, N., Poulin, M., Brice, M. H., & Pellerin, S. (2020). Vegetation changes in temperate ombrotrophic peatlands over a 35 year period. PLoS One, 15(2), e0229146. Doi: 10.1371/journal.pone.0229146\nRion, V., Gallandat, J. D., Gobat, J. M., & Vittoz, P. (2018). Recent changes in the plant composition of wetlands in the Jura Mountains. Applied Vegetation Science, 21(1), 121-131. DOI: 10.1111/avsc.12338\nSopotlieva, D., Velev, N., Terziyska, T., & Apostolova, I. (2024, December). Mountain Wetland Vegetation Changes for Thirteen Years in Vitosha Mountain (Bulgaria). In Proceedings of the Bulgarian Academy of Sciences (Vol. 77, No. 12, pp. 1776-1783). Doi: 10.7546/CRABS.2024.12.05\nter Braak, C. J., & Wiertz, J. (1994). On the statistical analysis of vegetation change: a wetland affected by water extraction and soil acidification. Journal of vegetation science, 5(3), 361-372. Doi: 10.2307/3235860",
-    "crumbs": [
-      "Articles",
-      "Related articles"
-    ]
-  },
-  {
-    "objectID": "Articles/articles.html",
-    "href": "Articles/articles.html",
-    "title": "Project-related articles and other interesting publications",
-    "section": "",
-    "text": "Project-related articles and other interesting publications\nOur project is just beginning; therefore, we do not have any publications related to it yet. But we offer you a wide overview of existing literature about resurveys and resurveys in wetlands.\nproject articles\nrelated articles",
-    "crumbs": [
-      "Articles"
-    ]
-  },
-  {
-    "objectID": "Articles/articles.html#project-related-articles-and-other-interesting-publications",
-    "href": "Articles/articles.html#project-related-articles-and-other-interesting-publications",
-    "title": "Articles",
-    "section": "",
-    "text": "Our project is just beginning; therefore, we do not have any publications related to it yet. But we offer you a wide overview of existing literature about resurveys and resurveys in wetlands.\nproject articles\nrelated articles",
-    "crumbs": [
-      "Articles"
-    ]
-  },
-  {
-    "objectID": "Articles/project_articles.html",
-    "href": "Articles/project_articles.html",
-    "title": "Project articles",
-    "section": "",
-    "text": "Project articles\nThe project began in January 2026. As the research is ongoing, publications are not yet available. All outputs resulting from WetFlorVegChange will be added to this page as they become available.",
-    "crumbs": [
-      "Articles",
-      "Project articles"
-    ]
-  },
-  {
-    "objectID": "index.html#floristic-and-vegetation-changes-in-european-wetlands",
-    "href": "index.html#floristic-and-vegetation-changes-in-european-wetlands",
-    "title": "WetFlorVegChange",
-    "section": "Floristic and Vegetation Changes in European Wetlands",
-    "text": "Floristic and Vegetation Changes in European Wetlands\nWetlands are among the most threatened ecosystems in Europe and in the World. Despite their ecological importance, our understanding of long‑term floristic and vegetation changes at the continental scale remains fragmented. Most existing studies focus on local case studies, leaving large‑scale patterns and drivers poorly understood.\nWetFlorVegChange addresses this gap by building the first coordinated European network dedicated to wetland resurveys. The project brings together experts, historical data sets, and new field campaigns to assess how wetland vegetation has changed over the last century.",
-    "crumbs": [
-      "About the project"
     ]
   },
   {
@@ -115,14 +31,64 @@
     ]
   },
   {
-    "objectID": "People/data_contributors.html",
-    "href": "People/data_contributors.html",
-    "title": "Data contributors",
+    "objectID": "More/more_about.html#wp1.-database-and-network-of-experts.",
+    "href": "More/more_about.html#wp1.-database-and-network-of-experts.",
+    "title": "More about the project",
     "section": "",
-    "text": "Data contributors\nMore than sixty scientists and specialists involved in nature conservation from 17 European countries have already decided to contribute to WetFlorVegChange.  If you are interested in joining our project, please contact us and visit the “How to contribute?” page.\nmap",
+    "text": "This WP aims to establish a European network of wetland vegetation ecologists and gather most of the existing resurveyed plots and vegetation-plot time series of inland wetland vegetation (including eu- and mesotrophic aquatic, marsh, spring, peatland, annual temporary pond, oligotrophic water vegetation, and wet meadows). We will create a common repository for new wetland resurveys and related information, ReSurveyWetlands. This database will eventually be integrated into the ReSurveyEurope database (https://euroveg.org/resurvey/), according to the consensus of data contributors.",
     "crumbs": [
-      "People and cooperations",
-      "Data contributors"
+      "More about the project"
+    ]
+  },
+  {
+    "objectID": "More/more_about.html#wp2.-understanding-large-scale-floristic-and-vegetation-changes",
+    "href": "More/more_about.html#wp2.-understanding-large-scale-floristic-and-vegetation-changes",
+    "title": "More about the project",
+    "section": "",
+    "text": "The goal of this working package is to explore the trends in floristic and vegetation changes across European wetlands over the past 30 years. The geographic scope will encompass Europe, excluding the Nordic Countries, Russia, and Belarus due to insufficient data.\nWe aim to answer the following questions:\na) Which wetland vegetation types and habitats are most impacted by floristic and vegetation changes?\nb) How do trends in wetlands vary across different European regions?\nc) Do wetlands in Central European countries tend to become more like those in Southern countries?",
+    "crumbs": [
+      "More about the project"
+    ]
+  },
+  {
+    "objectID": "More/more_about.html#wp3.-drivers-and-effects-of-management",
+    "href": "More/more_about.html#wp3.-drivers-and-effects-of-management",
+    "title": "More about the project",
+    "section": "",
+    "text": "The goal of this working package is to explore the drivers of vegetation changes across different wetland types and trends in managed versus unmanaged wetlands.\nWe will answer the following questions:\na) What are the main environmental and anthropogenic drivers of floristic and vegetation changes in wetlands?\nb) How do floristic and vegetation changes differ in managed and unmanaged wetlands?\nc) What are the trends for protected and alien species?",
+    "crumbs": [
+      "More about the project"
+    ]
+  },
+  {
+    "objectID": "More/more_about.html#wp4.-assessment-of-conservation-practices",
+    "href": "More/more_about.html#wp4.-assessment-of-conservation-practices",
+    "title": "More about the project",
+    "section": "",
+    "text": "The aim of this last working package is to consolidate all the results and develop guidelines for the conservation of wetlands based on our findings. It is based on the following questions:\na) Are current management practices effective?\nb) How can wetland nature conservation policies be improved?\nc) How can current trends be stopped or reversed? (if necessary)",
+    "crumbs": [
+      "More about the project"
+    ]
+  },
+  {
+    "objectID": "More/data_policy.html",
+    "href": "More/data_policy.html",
+    "title": "Data policy",
+    "section": "",
+    "text": "Data policy\n\nContributor communication — All data contributors are added to the project’s mailing list and will receive periodic updates on project progress, analyses, and upcoming publications.\nData ownership — Contributors retain full ownership of their data. They are responsible for communicating with the project leader or data managers regarding permissions, use conditions, and any restrictions.\nData use and sharing — Submitted data are used exclusively for non‑commercial, academic research. No data will be shared with third parties without explicit consent from the data owners. Upon submission, contributors may choose whether their data can also be shared with the ReSurveyEurope database; if they decline, their data will be used only within WetFlorVegChange and will not be subject to ReSurveyEurope rules.\nAuthorship and contributions — All data contributors will be invited to become co‑authors of publications that use their data. Co‑authorship is not automatic: it requires an intellectual contribution, such as conceptual input, preparation of new data, assistance with interpretation or analysis, or writing parts of the manuscript (in accordance with the IAVS Code of Professional Ethics). Contributors who do not participate intellectually may still qualify as co‑authors if (1) they provide unpublished data from understudied European regions or vegetation types, or (2) they contribute at least 30 time series with ≥2 repeated plots for species‑poor vegetation (&lt;20 species/plot), or 15 time series for species‑rich vegetation (&gt;20 species/plot).",
+    "crumbs": [
+      "More about the project",
+      "Data policy"
+    ]
+  },
+  {
+    "objectID": "index.html#floristic-and-vegetation-changes-in-european-wetlands",
+    "href": "index.html#floristic-and-vegetation-changes-in-european-wetlands",
+    "title": "WetFlorVegChange",
+    "section": "Floristic and Vegetation Changes in European Wetlands",
+    "text": "Floristic and Vegetation Changes in European Wetlands\nWetlands are among the most threatened ecosystems in Europe and in the World. Despite their ecological importance, our understanding of long‑term floristic and vegetation changes at the continental scale remains fragmented. Most existing studies focus on local case studies, leaving large‑scale patterns and drivers poorly understood.\nWetFlorVegChange addresses this gap by building the first coordinated European network dedicated to wetland resurveys. The project brings together experts, historical data sets, and new field campaigns to assess how wetland vegetation has changed over the last century.",
+    "crumbs": [
+      "About the project"
     ]
   },
   {
@@ -156,64 +122,56 @@
     ]
   },
   {
-    "objectID": "People/people_cooperations.html",
-    "href": "People/people_cooperations.html",
-    "title": "People and cooperations",
+    "objectID": "Articles/project_articles.html",
+    "href": "Articles/project_articles.html",
+    "title": "Project articles",
     "section": "",
-    "text": "People and cooperations\nThe project WetFlorVegChange was conceived by a team of Central European scientists, based primarily at Masaryk University (Core team). However, because one of the main goals of this project is to build a European network of wetland‑vegetation ecologists and to assemble all existing vegetation‑plot time series of inland wetland habitats into the ReSurveyWetlands database, the project relies on the collaboration of numerous experts across Europe (Data contributors).",
+    "text": "Project articles\nThe project began in January 2026. As the research is ongoing, publications are not yet available. All outputs resulting from WetFlorVegChange will be added to this page as they become available.",
     "crumbs": [
-      "People and cooperations"
+      "Articles",
+      "Project articles"
     ]
   },
   {
-    "objectID": "More/data_policy.html",
-    "href": "More/data_policy.html",
-    "title": "Data policy",
+    "objectID": "Articles/articles.html",
+    "href": "Articles/articles.html",
+    "title": "Project-related articles and other interesting publications",
     "section": "",
-    "text": "Data policy\n\nContributor communication — All data contributors are added to the project’s mailing list and will receive periodic updates on project progress, analyses, and upcoming publications.\nData ownership — Contributors retain full ownership of their data. They are responsible for communicating with the project leader or data managers regarding permissions, use conditions, and any restrictions.\nData use and sharing — Submitted data are used exclusively for non‑commercial, academic research. No data will be shared with third parties without explicit consent from the data owners. Upon submission, contributors may choose whether their data can also be shared with the ReSurveyEurope database; if they decline, their data will be used only within WetFlorVegChange and will not be subject to ReSurveyEurope rules.\nAuthorship and contributions — All data contributors will be invited to become co‑authors of publications that use their data. Co‑authorship is not automatic: it requires an intellectual contribution, such as conceptual input, preparation of new data, assistance with interpretation or analysis, or writing parts of the manuscript (in accordance with the IAVS Code of Professional Ethics). Contributors who do not participate intellectually may still qualify as co‑authors if (1) they provide unpublished data from understudied European regions or vegetation types, or (2) they contribute at least 30 time series with ≥2 repeated plots for species‑poor vegetation (&lt;20 species/plot), or 15 time series for species‑rich vegetation (&gt;20 species/plot).",
+    "text": "Project-related articles and other interesting publications\nOur project is just beginning; therefore, we do not have any publications related to it yet. But we offer you a wide overview of existing literature about resurveys and resurveys in wetlands.\nproject articles\nrelated articles",
+    "crumbs": [
+      "Articles"
+    ]
+  },
+  {
+    "objectID": "Articles/related_articles.html",
+    "href": "Articles/related_articles.html",
+    "title": "Interesting publications about the topic",
+    "section": "",
+    "text": "Interesting publications about the topic\nAlfonsi, E., Benot, M. L., Fievet, V., & Alard, D. (2017). Addressing species turnover and community changes in vegetation resurvey studies. Applied Vegetation Science, 20(2), 172-182. Doi: 10.1111/avsc.12258\nBergamini, A., Peintinger, M., Fakheran, S., Moradi, H., Schmid, B., & Joshi, J. (2009). Loss of habitat specialists despite conservation management in fen remnants 1995–2006. Perspectives in Plant Ecology, Evolution and Systematics, 11(1), 65-79. Doi: 10.1016/j.ppees.2008.10.001\nBritton, A. J., Hewison, R. L., Mitchell, R. J., & Riach, D. (2017). Pollution and climate change drive long-term change in Scottish wetland vegetation composition. Biological Conservation, 210, 72-79. https://doi.org/10.1034/j.1600-0587.2002.250605.x\nBurnside, N. G., Joyce, C. B., Puurmann, E., & Scott, D. M. (2007). Use of vegetation classification and plant indicators to assess grazing abandonment in Estonian coastal wetlands. Journal of Vegetation Science, 18(5), 645-654. Doi: 10.1111/j.1654-1103.2007.tb02578.x\nGunnarsson, U., Malmer, N., & Rydin, H. (2002). Dynamics or constancy in Sphagnum dominated mire ecosystems? A 40‐year study. Ecography, 25(6), 685-704. Doi: 10.1034/j.1600-0587.2002.250605.x\nHédl, R., Bernhardt-Römermann, M., Grytnes, J. A., Jurasinski, G., & Ewald, J. (2017). Resurvey of historical vegetation plots: a tool for understanding long-term dynamics of plant communities. Applied Vegetation Science, 20(2), 161-163. Doi: 10.1111/avsc.12307\nKapfer, J., Hédl, R., Jurasinski, G., Kopecký, M., Schei, F. H., & Grytnes, J. A. (2017). Resurveying historical vegetation data–opportunities and challenges. Applied Vegetation Science, 20(2), 164-171. Doi:10.1111/avsc.12269\nKlinkovská, K., Glaser, M., Danihelka, J., Kaplan, Z., Knollová, I., Novotný, P., … & Chytrý, M. (2024). Dynamics of the Czech flora over the last 60 years: Winners, losers and causes of changes. Biological Conservation, 292, 110502. Doi:10.1016/j.biocon.2024.110502\nKlinkovská, K., Sperandii, M. G., Knollová, I., Danihelka, J., Hájek, M., Hájková, P., … & Chytrý, M. (2025). Half a Century of Temperate Non‐Forest Vegetation Changes: No Net Loss in Species Richness, but Considerable Shifts in Taxonomic and Functional Composition. Global Change Biology, 31(1), e70030. Doi:10.1111/gcb.70030\nKnollová, I., Chytrý, M., Bruelheide, H., Dullinger, S., Jandt, U., Bernhardt‐Römermann, M., … & Moiseev, P. (2024). ReSurveyEurope: A database of resurveyed vegetation plots in Europe. Journal of Vegetation Science, 35(2), e13235. Doi: 10.1111/jvs.13235\nJandt, U., Bruelheide, H., Berg, C., Bernhardt-Römermann, M., Blüml, V., Bode, F., … & Wulf, M. (2022). ReSurveyGermany: Vegetation-plot time-series over the past hundred years in Germany. Scientific Data, 9(1), 631. Doi: 10.1038/s41597-022-01688-6\nMidolo, G., Clark, A. T., Chytrý, M., Essl, F., Dullinger, S., Jandt, U., … & Keil, P. (2026). Sixty years of plant community change in Europe indicate a shift toward nutrient-richer and denser vegetation. Science Advances, 12(15), eaeb2493. Doi: 10.1126/sciadv.aeb2493\nOrtmann-Ajkai, A., Csicsek, G., Hollós, R., Magyaros, V., Wágner, L., & Lóczy, D. (2018). Twenty-years’ changes of wetland vegetation: effects of floodplain-level threats. Wetlands, 38(3), 591-604. Doi: 10.1007/s13157-018-1002-0\nPinceloup, N., Poulin, M., Brice, M. H., & Pellerin, S. (2020). Vegetation changes in temperate ombrotrophic peatlands over a 35 year period. PLoS One, 15(2), e0229146. Doi: 10.1371/journal.pone.0229146\nRion, V., Gallandat, J. D., Gobat, J. M., & Vittoz, P. (2018). Recent changes in the plant composition of wetlands in the Jura Mountains. Applied Vegetation Science, 21(1), 121-131. DOI: 10.1111/avsc.12338\nSopotlieva, D., Velev, N., Terziyska, T., & Apostolova, I. (2024, December). Mountain Wetland Vegetation Changes for Thirteen Years in Vitosha Mountain (Bulgaria). In Proceedings of the Bulgarian Academy of Sciences (Vol. 77, No. 12, pp. 1776-1783). Doi: 10.7546/CRABS.2024.12.05\nter Braak, C. J., & Wiertz, J. (1994). On the statistical analysis of vegetation change: a wetland affected by water extraction and soil acidification. Journal of Vegetation Science, 5(3), 361-372. Doi: 10.2307/3235860",
+    "crumbs": [
+      "Articles",
+      "Related articles"
+    ]
+  },
+  {
+    "objectID": "Links.html",
+    "href": "Links.html",
+    "title": "Related Projects and Initiatives",
+    "section": "",
+    "text": "Related Projects and Initiatives\n\nReSurveyEurope - the largest European database of resurvey plots, integrated with the European Vegetation Archive. It currently includes more than 120,000 plots with repeated surveys across all European Habitats.\nforestREplot– a database of forest herb‑layer resurvey plots. forestREplot and ReSurveyEurope exchange European datasets when data owners provide consent.\nGLORIA – the Global Observation Research Initiative in Alpine Environments. GLORIA contributes European datasets to ReSurveyEurope.\nLOTVS – the Long‑Term Vegetation Sampling database. LOTVS and ReSurveyEurope share European data when data owners.\nsPlot – the Global Vegetation Database. Starting with version 4.0, sPlot is collecting vegetation time‑series outside Europe and is seeking consent from ReSurveyEurope contributors to combine European datasets with global data for analyses following sPlot rules.\nVegCHange – a toolbox for investigating anthropogenic changes in Swiss flora and vegetation.\nEVAmap– is a mapping application for all plots included in the European Vegetation Archive and ResurveyEurope. It allows selecting plots based on geographical location, along with other criteria. It also assesses which plots have been resurveyed to assess vegetation changes over time.",
+    "crumbs": [
+      "Links"
+    ]
+  },
+  {
+    "objectID": "More/instructions.html",
+    "href": "More/instructions.html",
+    "title": "How to contribute?",
+    "section": "",
+    "text": "How to contribute?\nFirst, contact the project leader, Flavia Landucci (flavia.landucci@gmail.com), and express your interest in participating in this project.\nYou can contribute by sharing with us:\n-Already existing data. Time series that are already digitized, available in literature or reports, but not stored in any existing database.\n-Resurveying wetland sites. If you have good initial datasets that could be repeated within the next two years, you can conduct the resurveys yourself.\nIt is possible to contribute your data in two ways:\n-Contribute them to the ReSurvey Europe database (https://euroveg.org/resurvey/) before October 2027 (the sooner the better). In this case, please follow all instructions on the ReSurvey webpage and notify Flavia Landucci (flavia.landucci@gmail.com) that you have contributed your data through ReSurvey Europe.\n-Share them directly with our group. If, for some reason, you want to share your data only with our project and not contribute your data to ReSurvey Europe, or you do not have time to properly digitize them in a TURBOVEG database, you can contribute them directly to our data managers: Tomáš Peterka: (peterkatomasek@seznam.cz) for mires and bogs, and Zdenka Preislerová (zpreislerova@gmail.com) for all other wetland types.",
     "crumbs": [
       "More about the project",
-      "Data policy"
-    ]
-  },
-  {
-    "objectID": "More/more_about.html#wp1.-database-and-network-of-experts.",
-    "href": "More/more_about.html#wp1.-database-and-network-of-experts.",
-    "title": "More about the project",
-    "section": "",
-    "text": "This WP aims to establish a European network of wetland vegetation ecologists and gather most of the existing resurveyed plots and vegetation-plot time series of inland wetland vegetation (including eu- and mesotrophic aquatic, marsh, spring, peatland, annual temporary pond, oligotrophic water vegetation, and wet meadows). We will create a common repository for new wetland resurveys and related information, ReSurveyWetlands. This database will eventually be integrated into the ReSurveyEurope database (https://euroveg.org/resurvey/), according to the consensus of data contributors.",
-    "crumbs": [
-      "More about the project"
-    ]
-  },
-  {
-    "objectID": "More/more_about.html#wp2.-understanding-large-scale-floristic-and-vegetation-changes.",
-    "href": "More/more_about.html#wp2.-understanding-large-scale-floristic-and-vegetation-changes.",
-    "title": "More about the project",
-    "section": "",
-    "text": "The goal of this working package is to explore the trends in floristic and vegetation changes across European wetlands over the past 30 years. The geographic scope will encompass Europe, excluding the Nordic Countries, Russia, and Belarus due to insufficient data.\nWe aim to answer the following questions:\na) Which wetland vegetation types and habitats are most impacted by floristic and vegetation changes?\nb) How do trends in wetlands vary across different European regions?\nc) Do wetlands in Central European countries tend to become more like those in Southern countries?",
-    "crumbs": [
-      "More about the project"
-    ]
-  },
-  {
-    "objectID": "More/more_about.html#wp3.-drivers-and-effects-of-management.",
-    "href": "More/more_about.html#wp3.-drivers-and-effects-of-management.",
-    "title": "More about the project",
-    "section": "",
-    "text": "The goal of this working package is to explore the drivers of vegetation changes across different wetland types and trends in managed versus unmanaged wetlands.\nWe will answer the following questions:\na) What are the main environmental and anthropogenic drivers of floristic and vegetation changes in wetlands?\nb) How do floristic and vegetation changes differ in managed and unmanaged wetlands?\nc) What are the trends for protected and alien species?",
-    "crumbs": [
-      "More about the project"
-    ]
-  },
-  {
-    "objectID": "More/more_about.html#wp4.-assessment-of-conservation-practices.",
-    "href": "More/more_about.html#wp4.-assessment-of-conservation-practices.",
-    "title": "More about the project",
-    "section": "",
-    "text": "The aim of this last working package is to consolidate all the results and develop guidelines for the conservation of wetlands based on our findings. It is based on the following questions:\na) Are current management practices effective?\nb) How can wetland nature conservation policies be improved?\nc) How can current trends be stopped or reversed? (if necessary)",
-    "crumbs": [
-      "More about the project"
+      "How to contribute"
     ]
   },
   {
@@ -221,7 +179,7 @@
     "href": "More/What_data.html",
     "title": "What data are we looking for?",
     "section": "",
-    "text": "● Permanent and (semi-)permanent plots\n● Repeated surveys\n● Repeated floristic species pool surveys of small wetlands (e.g., springs, ponds, pools, stream sections, etc.)\nWe are interested in time-series whose first survey was within the following habitat categories:\n\nTab.1 - List of habitats and vegetation types according to the old EUNIS classification and Annex I list of the Habitat Directive.\n\nTab. 2 - List of Habitats according to the new revised EUNIS Habitat classification (the revision is still in progress for the inland wetland habitats).\n\n\nTo ensure maximum utility and comparability, the data sets need to include:\n● A complete list of vascular plants, preferably with information on abundance or abundance proxies such as cover or biomass\n● Location: Geographical coordinates or detailed site descriptions.\n● Location precision and, if necessary, a short description of the reasons that prevented finding the exact location.\n● Survey Details: Sampling date and methodological notes (e.g., sampling surface, cover scale, inclusion/exclusion of algae and bryophytes, etc.).\n● Specification of the protected area name and type (if applicable).\n● Physicochemical and other additional descriptive parameters, and management types of the survey locations (if available).\n● Contact. Name and contact of the data owner and data custodian\nData should be provided in Excel or Turboveg. Text formats or undigitized data are not ideal, but we will also try to accommodate them.\n\n\n\n● Internships: If you supervise a student whose thesis relates to this subject, they can apply for an internship in our department (various mobility programs are available).\n● New Resurveys: If you have good initial datasets that could be repeated within the next two years, you can conduct the resurveys yourself and contribute. In this case, contact us. We will send you a brief manual on resurveying plots for this specific project.\n● If you have interesting data sets or a specific data set (published or unpublished by old authors) that you are unable to resurvey, contact us, and we can try to organize joint fieldwork.\n\n\n\n● Become part of a European-wide expert network on wetland ecology.\n● Gain co-authorship opportunities in joint publications\n● Increase the visibility of your datasets and research\n● Supportthe development of evidence-based conservation guidelines for wetlands",
+    "text": "● Permanent and (semi-)permanent plots\n● Repeated surveys\n● Repeated floristic species pool surveys of small wetlands (e.g., springs, ponds, pools, stream sections, etc.)\nWe are interested in time-series whose first survey was within the following habitat categories:\n\nTab.1 - List of habitats and vegetation types according to the old EUNIS classification and Annex I list of the Habitat Directive.\n\nTab. 2 - List of Habitats according to the new revised EUNIS Habitat classification (the revision is still in progress for the inland wetland habitats).\n\n\nTo ensure maximum utility and comparability, the data sets need to include:\n● A complete list of vascular plants, preferably with information on abundance or abundance proxies such as cover or biomass\n● Location: Geographical coordinates or detailed site descriptions.\n● Location precision and, if necessary, a short description of the reasons that prevented finding the exact location.\n● Survey Details: Sampling date and methodological notes (e.g., sampling surface, cover scale, inclusion/exclusion of algae and bryophytes, etc.).\n● Specification of the protected area name and type (if applicable).\n● Physicochemical and other additional descriptive parameters, and management types of the survey locations (if available).\n● Contact. Name and contact of the data owner and data custodian\nData should be provided in Excel or Turboveg. Text formats or undigitized data are not ideal, but we will also try to accommodate them.\n\n\n\n● Internships: If you supervise a student whose thesis relates to this subject, they can apply for an internship in our department (various mobility programs are available).\n● New Resurveys: If you have good initial datasets that could be repeated within the next two years, you can conduct the resurveys yourself and contribute. In this case, contact us. We will send you a brief manual on resurveying plots for this specific project.\n● If you have interesting data sets or a specific data set (published or unpublished by old authors) that you are unable to resurvey, contact us, and we can try to organize a joint fieldwork.\n\n\n\n● Become part of a European-wide expert network on wetland ecology.\n● Gain co-authorship opportunities in joint publications\n● Increase the visibility of your datasets and research\n● Supportthe development of evidence-based conservation guidelines for wetlands",
     "crumbs": [
       "More about the project",
       "Data requirements"
@@ -243,7 +201,7 @@
     "href": "More/What_data.html#additional-ways-to-cooperate",
     "title": "What data are we looking for?",
     "section": "",
-    "text": "● Internships: If you supervise a student whose thesis relates to this subject, they can apply for an internship in our department (various mobility programs are available).\n● New Resurveys: If you have good initial datasets that could be repeated within the next two years, you can conduct the resurveys yourself and contribute. In this case, contact us. We will send you a brief manual on resurveying plots for this specific project.\n● If you have interesting data sets or a specific data set (published or unpublished by old authors) that you are unable to resurvey, contact us, and we can try to organize joint fieldwork.",
+    "text": "● Internships: If you supervise a student whose thesis relates to this subject, they can apply for an internship in our department (various mobility programs are available).\n● New Resurveys: If you have good initial datasets that could be repeated within the next two years, you can conduct the resurveys yourself and contribute. In this case, contact us. We will send you a brief manual on resurveying plots for this specific project.\n● If you have interesting data sets or a specific data set (published or unpublished by old authors) that you are unable to resurvey, contact us, and we can try to organize a joint fieldwork.",
     "crumbs": [
       "More about the project",
       "Data requirements"
@@ -261,33 +219,14 @@
     ]
   },
   {
-    "objectID": "More/more_about.html#wp2.-understanding-large-scale-floristic-and-vegetation-changes",
-    "href": "More/more_about.html#wp2.-understanding-large-scale-floristic-and-vegetation-changes",
-    "title": "More about the project",
+    "objectID": "People/data_contributors.html",
+    "href": "People/data_contributors.html",
+    "title": "Data contributors",
     "section": "",
-    "text": "The goal of this working package is to explore the trends in floristic and vegetation changes across European wetlands over the past 30 years. The geographic scope will encompass Europe, excluding the Nordic Countries, Russia, and Belarus due to insufficient data.\nWe aim to answer the following questions:\na) Which wetland vegetation types and habitats are most impacted by floristic and vegetation changes?\nb) How do trends in wetlands vary across different European regions?\nc) Do wetlands in Central European countries tend to become more like those in Southern countries?",
+    "text": "Data contributors\nMore than sixty scientists and specialists involved in nature conservation from 17 European countries have already decided to contribute to WetFlorVegChange.  If you are interested in joining our project, please contact us and visit the “How to contribute?” page.\nmap",
     "crumbs": [
-      "More about the project"
-    ]
-  },
-  {
-    "objectID": "More/more_about.html#wp3.-drivers-and-effects-of-management",
-    "href": "More/more_about.html#wp3.-drivers-and-effects-of-management",
-    "title": "More about the project",
-    "section": "",
-    "text": "The goal of this working package is to explore the drivers of vegetation changes across different wetland types and trends in managed versus unmanaged wetlands.\nWe will answer the following questions:\na) What are the main environmental and anthropogenic drivers of floristic and vegetation changes in wetlands?\nb) How do floristic and vegetation changes differ in managed and unmanaged wetlands?\nc) What are the trends for protected and alien species?",
-    "crumbs": [
-      "More about the project"
-    ]
-  },
-  {
-    "objectID": "More/more_about.html#wp4.-assessment-of-conservation-practices",
-    "href": "More/more_about.html#wp4.-assessment-of-conservation-practices",
-    "title": "More about the project",
-    "section": "",
-    "text": "The aim of this last working package is to consolidate all the results and develop guidelines for the conservation of wetlands based on our findings. It is based on the following questions:\na) Are current management practices effective?\nb) How can wetland nature conservation policies be improved?\nc) How can current trends be stopped or reversed? (if necessary)",
-    "crumbs": [
-      "More about the project"
+      "People and cooperations",
+      "Data contributors"
     ]
   }
 ]
