@@ -4,7 +4,7 @@ project:
 
 website:
   title: "WetFlorVegChange"
-
+    
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
 
@@ -54,3 +54,4 @@ format:
   html:
     theme: cosmo
     toc: true
+    include-in-header: verification.html
